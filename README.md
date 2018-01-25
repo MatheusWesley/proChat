@@ -1,2 +1,2 @@
 # proChat
-chat interno, feito com NodeJS e sua tecnologias
+* Um pequeno aplicativo de chat desenvolvido em NodeJS
